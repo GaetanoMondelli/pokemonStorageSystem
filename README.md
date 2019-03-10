@@ -10,7 +10,7 @@ The original system was able to store only a limited account of Pokemon per trai
 
 Here we propose a simple implementation of PSS using a Solidity smart contract and the Solitude development tool.
 
-![Alt text](media/bill_blockchain.jpg?raw=true "Bill PSS implementation")
+![PSS](media/bill_blockchain.png?raw=true "Bill PSS implementation")
 
 The contract will implement the following methods:
 
@@ -19,4 +19,3 @@ The contract will implement the following methods:
 - Deposit: To move out Pokemon from the team to the decentralised system
 - Release: For removing the ownership of Pokemon and make them wild and free again
 - Change Box: For setting the current box 
-
